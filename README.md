@@ -1,5 +1,6 @@
-# ai-youtube-automation
-This project automates the creation of YouTube knowledge videos using AI. It takes a topic or concept as input, generates a clear avatar-based script, converts it into a short video with AI voice narration, and uploads it to a YouTube channel automatically using n8n workflows.
+# automated-ai-youtube-content-generator
+
+This project automates the creation of YouTube knowledge videos using AI. It takes a topic or concept as input, generates a clear avatar-based script, converts it into a video with AI voice narration, and uploads it to a YouTube channel automatically using n8n workflows.
 
 ## **How This automation works**
 
@@ -98,13 +99,13 @@ Step 2: Replace the placeholder in the \*\*Header Parameters → Value\*\*
 
 ## How to Use This Workflow
 
-1. Download the `ai-youtube-automation.json` file from this repository.  
+1. Download the `automated-ai-youtube-content-generator.json` file from this repository.  
 
 2. Open n8n.  
 
 3. Click **Import Workflow**.  
 
-4. Upload the downloaded `ai-youtube-automation.json` file.  
+4. Upload the downloaded file.  
 
 5. Configure all required credentials:
    - Google Sheets  
