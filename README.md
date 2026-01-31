@@ -14,6 +14,9 @@ This project automates the creation of YouTube knowledge videos using AI. It tak
 
 5\. Writes the video link back to Google Sheets
 
+Note: To see how this workflow works, please click the link and watch the demo video.
+https://www.loom.com/share/703bbc153ce84bb1b56abce4820f33ac
+
 ## Tools & Services Used
 
 - Google Sheets – Lesson source and trigger
